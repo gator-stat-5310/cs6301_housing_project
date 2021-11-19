@@ -1,0 +1,651 @@
+Region,RegionName,StateName,CountyName,CityName,ForecastedDate,ForecastYoYPctChange
+Msa,"Aberdeen, WA",WA,,,9/30/2022,18.3
+Msa,"Abilene, TX",TX,,,9/30/2022,11.8
+Msa,"Ada, OK",OK,,,9/30/2022,13.5
+Msa,"Adrian, MI",MI,,,9/30/2022,12.6
+Msa,"Akron, OH",OH,,,9/30/2022,13
+Msa,"Alamogordo, NM",NM,,,9/30/2022,14
+Msa,"Albany, NY",NY,,,9/30/2022,12
+Msa,"Albany, OR",OR,,,9/30/2022,16.5
+Msa,"Albemarle, NC",NC,,,9/30/2022,10.8
+Msa,"Albert Lea, MN",MN,,,9/30/2022,14.9
+Msa,"Albertville, AL",AL,,,9/30/2022,16.7
+Msa,"Albuquerque, NM",NM,,,9/30/2022,16.4
+Msa,"Alexandria, LA",LA,,,9/30/2022,6.4
+Msa,"Alexandria, MN",MN,,,9/30/2022,13.2
+Msa,"Alice, TX",TX,,,9/30/2022,12
+Msa,"Allentown, PA",PA,,,9/30/2022,15.8
+Msa,"Altoona, PA",PA,,,9/30/2022,8.9
+Msa,"Altus, OK",OK,,,9/30/2022,12.4
+Msa,"Amarillo, TX",TX,,,9/30/2022,17.3
+Msa,"Ames, IA",IA,,,9/30/2022,11.9
+Msa,"Amsterdam, NY",NY,,,9/30/2022,11.7
+Msa,"Anchorage, AK",AK,,,9/30/2022,8.1
+Msa,"Ann Arbor, MI",MI,,,9/30/2022,9.2
+Msa,"Anniston, AL",AL,,,9/30/2022,16.7
+Msa,"Appleton, WI",WI,,,9/30/2022,13.2
+Msa,"Ardmore, OK",OK,,,9/30/2022,13.6
+Msa,"Arkadelphia, AR",AR,,,9/30/2022,11
+Msa,"Asheville, NC",NC,,,9/30/2022,18.7
+Msa,"Ashtabula, OH",OH,,,9/30/2022,12.2
+Msa,"Astoria, OR",OR,,,9/30/2022,29.8
+Msa,"Athens, GA",GA,,,9/30/2022,13.7
+Msa,"Athens, OH",OH,,,9/30/2022,14.6
+Msa,"Athens, TN",TN,,,9/30/2022,12
+Msa,"Athens, TX",TX,,,9/30/2022,19.7
+Msa,"Atlanta, GA",GA,,,9/30/2022,23.9
+Msa,"Atlantic City, NJ",NJ,,,9/30/2022,17.8
+Msa,"Auburn, AL",AL,,,9/30/2022,12.3
+Msa,"Auburn, IN",IN,,,9/30/2022,15.8
+Msa,"Auburn, NY",NY,,,9/30/2022,11.5
+Msa,"Augusta, GA",GA,,,9/30/2022,14.7
+Msa,"Augusta, ME",ME,,,9/30/2022,15.1
+Msa,"Austin, MN",MN,,,9/30/2022,13
+Msa,"Austin, TX",TX,,,9/30/2022,21.9
+Msa,"Bakersfield, CA",CA,,,9/30/2022,19.1
+Msa,"Baltimore, MD",MD,,,9/30/2022,10.7
+Msa,"Bangor, ME",ME,,,9/30/2022,15.7
+Msa,"Baraboo, WI",WI,,,9/30/2022,13.6
+Msa,"Bardstown, KY",KY,,,9/30/2022,12.8
+Msa,"Barnstable Town, MA",MA,,,9/30/2022,20.2
+Msa,"Barre, VT",VT,,,9/30/2022,18.6
+Msa,"Bartlesville, OK",OK,,,9/30/2022,11.7
+Msa,"Bastrop, LA",LA,,,9/30/2022,8.8
+Msa,"Batavia, NY",NY,,,9/30/2022,12
+Msa,"Baton Rouge, LA",LA,,,9/30/2022,8.1
+Msa,"Battle Creek, MI",MI,,,9/30/2022,15.7
+Msa,"Bay City, MI",MI,,,9/30/2022,14
+Msa,"Beaumont, TX",TX,,,9/30/2022,9.9
+Msa,"Beaver Dam, WI",WI,,,9/30/2022,13.4
+Msa,"Beckley, WV",WV,,,9/30/2022,8.8
+Msa,"Bellingham, WA",WA,,,9/30/2022,16.8
+Msa,"Bend, OR",OR,,,9/30/2022,19.7
+Msa,"Bennettsville, SC",SC,,,9/30/2022,13.8
+Msa,"Bennington, VT",VT,,,9/30/2022,12.8
+Msa,"Berlin, NH",NH,,,9/30/2022,15
+Msa,"Big Stone Gap, VA",VA,,,9/30/2022,10.3
+Msa,"Billings, MT",MT,,,9/30/2022,13.6
+Msa,"Binghamton, NY",NY,,,9/30/2022,15.6
+Msa,"Birmingham, AL",AL,,,9/30/2022,13.2
+Msa,"Bismarck, ND",ND,,,9/30/2022,8.4
+Msa,"Blackfoot, ID",ID,,,9/30/2022,14.3
+Msa,"Bloomington, IL",IL,,,9/30/2022,12.4
+Msa,"Bloomington, IN",IN,,,9/30/2022,13.8
+Msa,"Bloomsburg, PA",PA,,,9/30/2022,12.4
+Msa,"Bluefield, WV",WV,,,9/30/2022,10.8
+Msa,"Blytheville, AR",AR,,,9/30/2022,12.3
+Msa,"Bogalusa, LA",LA,,,9/30/2022,10.6
+Msa,"Boise City, ID",ID,,,9/30/2022,18.6
+Msa,"Boone, NC",NC,,,9/30/2022,28.7
+Msa,"Boston, MA",MA,,,9/30/2022,11.4
+Msa,"Boulder, CO",CO,,,9/30/2022,17.7
+Msa,"Bowling Green, KY",KY,,,9/30/2022,10.9
+Msa,"Bozeman, MT",MT,,,9/30/2022,20.3
+Msa,"Bradford, PA",PA,,,9/30/2022,12.1
+Msa,"Brainerd, MN",MN,,,9/30/2022,14.9
+Msa,"Branson, MO",MO,,,9/30/2022,14.1
+Msa,"Breckenridge, CO",CO,,,9/30/2022,25.5
+Msa,"Bremerton, WA",WA,,,9/30/2022,16.8
+Msa,"Brookhaven, MS",MS,,,9/30/2022,11
+Msa,"Brownsville, TX",TX,,,9/30/2022,20.8
+Msa,"Brunswick, GA",GA,,,9/30/2022,17.6
+Msa,"Bucyrus, OH",OH,,,9/30/2022,14.6
+Msa,"Buffalo, NY",NY,,,9/30/2022,14.5
+Msa,"Burley, ID",ID,,,9/30/2022,13.5
+Msa,"Burlington, NC",NC,,,9/30/2022,23.3
+Msa,"Burlington, VT",VT,,,9/30/2022,12.2
+Msa,"California-Lexington Park, MD",MD,,,9/30/2022,12.6
+Msa,"Camden, AR",AR,,,9/30/2022,10.7
+Msa,"Canton, OH",OH,,,9/30/2022,14.6
+Msa,"Cape Girardeau, MO",MO,,,9/30/2022,13.1
+Msa,"Carson City, NV",NV,,,9/30/2022,19.5
+Msa,"Casper, WY",WY,,,9/30/2022,9.3
+Msa,"Cañon City, CO",CO,,,9/30/2022,14.4
+Msa,"Cedar City, UT",UT,,,9/30/2022,16.1
+Msa,"Cedar Rapids, IA",IA,,,9/30/2022,10.3
+Msa,"Centralia, WA",WA,,,9/30/2022,22.5
+Msa,"Chambersburg, PA",PA,,,9/30/2022,12.6
+Msa,"Champaign-Urbana, IL",IL,,,9/30/2022,10.2
+Msa,"Charleston, IL",IL,,,9/30/2022,10.3
+Msa,"Charleston, SC",SC,,,9/30/2022,19.7
+Msa,"Charleston, WV",WV,,,9/30/2022,9.4
+Msa,"Charlotte, NC",NC,,,9/30/2022,23
+Msa,"Charlottesville, VA",VA,,,9/30/2022,11
+Msa,"Chattanooga, TN",TN,,,9/30/2022,17.5
+Msa,"Cheyenne, WY",WY,,,9/30/2022,10.7
+Msa,"Chicago, IL",IL,,,9/30/2022,11.1
+Msa,"Chico, CA",CA,,,9/30/2022,13.9
+Msa,"Chillicothe, OH",OH,,,9/30/2022,15.6
+Msa,"Cincinnati, OH",OH,,,9/30/2022,14.8
+Msa,"Claremont, NH",NH,,,9/30/2022,16.8
+Msa,"Clarksburg, WV",WV,,,9/30/2022,10.6
+Msa,"Clarksville, TN",TN,,,9/30/2022,19.8
+Msa,"Clearlake, CA",CA,,,9/30/2022,13.1
+Msa,"Cleveland, OH",OH,,,9/30/2022,14.7
+Msa,"Cleveland, TN",TN,,,9/30/2022,14.4
+Msa,"Clinton, IA",IA,,,9/30/2022,8.8
+Msa,"Clovis, NM",NM,,,9/30/2022,11.4
+Msa,"Coeur d'Alene, ID",ID,,,9/30/2022,23.1
+Msa,"Coffeyville, KS",KS,,,9/30/2022,10.1
+Msa,"College Station, TX",TX,,,9/30/2022,9.4
+Msa,"Colorado Springs, CO",CO,,,9/30/2022,19.2
+Msa,"Columbia, MO",MO,,,9/30/2022,14.2
+Msa,"Columbia, SC",SC,,,9/30/2022,14.9
+Msa,"Columbus, GA",GA,,,9/30/2022,13.2
+Msa,"Columbus, IN",IN,,,9/30/2022,12.6
+Msa,"Columbus, MS",MS,,,9/30/2022,10.9
+Msa,"Columbus, OH",OH,,,9/30/2022,14.4
+Msa,"Concord, NH",NH,,,9/30/2022,16.4
+Msa,"Cookeville, TN",TN,,,9/30/2022,17.1
+Msa,"Coos Bay, OR",OR,,,9/30/2022,19.2
+Msa,"Corinth, MS",MS,,,9/30/2022,10.9
+Msa,"Corning, NY",NY,,,9/30/2022,10.7
+Msa,"Corpus Christi, TX",TX,,,9/30/2022,11.6
+Msa,"Cortland, NY",NY,,,9/30/2022,10.9
+Msa,"Corvallis, OR",OR,,,9/30/2022,14.7
+Msa,"Crestview-Fort Walton Beach-Destin, FL",FL,,,9/30/2022,21.5
+Msa,"Crossville, TN",TN,,,9/30/2022,19.5
+Msa,"Cullowhee, NC",NC,,,9/30/2022,26.8
+Msa,"Cumberland, MD",MD,,,9/30/2022,14.8
+Msa,"Dallas-Fort Worth, TX",TX,,,9/30/2022,21.2
+Msa,"Dalton, GA",GA,,,9/30/2022,15.6
+Msa,"Daphne, AL",AL,,,9/30/2022,17.5
+Msa,"Davenport, IL",IL,,,9/30/2022,10
+Msa,"Dayton, OH",OH,,,9/30/2022,15
+Msa,"Dayton, TN",TN,,,9/30/2022,15.3
+Msa,"Daytona Beach, FL",FL,,,9/30/2022,24.3
+Msa,"DeRidder, LA",LA,,,9/30/2022,8.6
+Msa,"Decatur, AL",AL,,,9/30/2022,15.5
+Msa,"Decatur, IL",IL,,,9/30/2022,11
+Msa,"Deming, NM",NM,,,9/30/2022,13.4
+Msa,"Denver, CO",CO,,,9/30/2022,19.5
+Msa,"Des Moines, IA",IA,,,9/30/2022,10.2
+Msa,"Detroit, MI",MI,,,9/30/2022,13.2
+Msa,"Dickinson, ND",ND,,,9/30/2022,8.6
+Msa,"Dixon, IL",IL,,,9/30/2022,12
+Msa,"Dothan, AL",AL,,,9/30/2022,11
+Msa,"Dover, DE",DE,,,9/30/2022,14.7
+Msa,"DuBois, PA",PA,,,9/30/2022,11.8
+Msa,"Dubuque, IA",IA,,,9/30/2022,13.2
+Msa,"Duluth, MN",MN,,,9/30/2022,13.6
+Msa,"Duncan, OK",OK,,,9/30/2022,10.7
+Msa,"Dunn, NC",NC,,,9/30/2022,15.4
+Msa,"Durango, CO",CO,,,9/30/2022,22.7
+Msa,"Durham, NC",NC,,,9/30/2022,20.8
+Msa,"East Stroudsburg, PA",PA,,,9/30/2022,18.1
+Msa,"Easton, MD",MD,,,9/30/2022,17.3
+Msa,"Eau Claire, WI",WI,,,9/30/2022,13.9
+Msa,"Edwards, CO",CO,,,9/30/2022,30.8
+Msa,"El Centro, CA",CA,,,9/30/2022,23.8
+Msa,"El Paso, TX",TX,,,9/30/2022,19.5
+Msa,"Elizabethtown, KY",KY,,,9/30/2022,14.8
+Msa,"Elk City, OK",OK,,,9/30/2022,15
+Msa,"Elkhart, IN",IN,,,9/30/2022,14.5
+Msa,"Elkins, WV",WV,,,9/30/2022,5.1
+Msa,"Elko, NV",NV,,,9/30/2022,21.5
+Msa,"Ellensburg, WA",WA,,,9/30/2022,12.4
+Msa,"Elmira, NY",NY,,,9/30/2022,13
+Msa,"Enid, OK",OK,,,9/30/2022,8.7
+Msa,"Enterprise, AL",AL,,,9/30/2022,11.3
+Msa,"Erie, PA",PA,,,9/30/2022,14
+Msa,"Espa±ola, NM",NM,,,9/30/2022,14.5
+Msa,"Eugene, OR",OR,,,9/30/2022,16.4
+Msa,"Eureka, CA",CA,,,9/30/2022,21.9
+Msa,"Evansville, IN",IN,,,9/30/2022,13.7
+Msa,"Fairbanks, AK",AK,,,9/30/2022,8.6
+Msa,"Fairmont, WV",WV,,,9/30/2022,10.6
+Msa,"Fargo, ND",ND,,,9/30/2022,9.2
+Msa,"Faribault, MN",MN,,,9/30/2022,14.6
+Msa,"Farmington, MO",MO,,,9/30/2022,10.7
+Msa,"Farmington, NM",NM,,,9/30/2022,21.7
+Msa,"Fayetteville, AR",AR,,,9/30/2022,22.4
+Msa,"Fayetteville, NC",NC,,,9/30/2022,15
+Msa,"Fernley, NV",NV,,,9/30/2022,19.7
+Msa,"Findlay, OH",OH,,,9/30/2022,13.6
+Msa,"Flagstaff, AZ",AZ,,,9/30/2022,22.9
+Msa,"Flint, MI",MI,,,9/30/2022,14.3
+Msa,"Florence, AL",AL,,,9/30/2022,18
+Msa,"Florence, SC",SC,,,9/30/2022,12.2
+Msa,"Fond du Lac, WI",WI,,,9/30/2022,12.5
+Msa,"Forest City, NC",NC,,,9/30/2022,16.3
+Msa,"Forrest City, AR",AR,,,9/30/2022,13.1
+Msa,"Fort Collins, CO",CO,,,9/30/2022,14.5
+Msa,"Fort Leonard Wood, MO",MO,,,9/30/2022,11.5
+Msa,"Fort Myers, FL",FL,,,9/30/2022,32.8
+Msa,"Fort Polk South, LA",LA,,,9/30/2022,9.4
+Msa,"Fort Smith, AR",AR,,,9/30/2022,12.1
+Msa,"Fort Wayne, IN",IN,,,9/30/2022,15.3
+Msa,"Frankfort, KY",KY,,,9/30/2022,13
+Msa,"Fredericksburg, TX",TX,,,9/30/2022,17.1
+Msa,"Fresno, CA",CA,,,9/30/2022,17.5
+Msa,"Gadsden, AL",AL,,,9/30/2022,13.5
+Msa,"Gaffney, SC",SC,,,9/30/2022,14.6
+Msa,"Gainesville, FL",FL,,,9/30/2022,13.4
+Msa,"Gainesville, GA",GA,,,9/30/2022,23.6
+Msa,"Gallup, NM",NM,,,9/30/2022,12.6
+Msa,"Gardnerville Ranchos, NV",NV,,,9/30/2022,18.9
+Msa,"Georgetown, SC",SC,,,9/30/2022,21.4
+Msa,"Gettysburg, PA",PA,,,9/30/2022,10.4
+Msa,"Glasgow, KY",KY,,,9/30/2022,14.6
+Msa,"Glens Falls, NY",NY,,,9/30/2022,15.1
+Msa,"Glenwood Springs, CO",CO,,,9/30/2022,20.2
+Msa,"Gloversville, NY",NY,,,9/30/2022,15.1
+Msa,"Goldsboro, NC",NC,,,9/30/2022,15.6
+Msa,"Grand Forks, ND",ND,,,9/30/2022,9.6
+Msa,"Grand Junction, CO",CO,,,9/30/2022,14.4
+Msa,"Grand Rapids, MI",MI,,,9/30/2022,13.9
+Msa,"Grants Pass, OR",OR,,,9/30/2022,13.9
+Msa,"Grants, NM",NM,,,9/30/2022,9
+Msa,"Great Bend, KS",KS,,,9/30/2022,11.1
+Msa,"Great Falls, MT",MT,,,9/30/2022,15.5
+Msa,"Greeley, CO",CO,,,9/30/2022,13.3
+Msa,"Green Bay, WI",WI,,,9/30/2022,13.7
+Msa,"Greeneville, TN",TN,,,9/30/2022,25.1
+Msa,"Greenfield Town, MA",MA,,,9/30/2022,11.8
+Msa,"Greensboro, NC",NC,,,9/30/2022,20.9
+Msa,"Greenville, NC",NC,,,9/30/2022,15.9
+Msa,"Greenville, OH",OH,,,9/30/2022,14
+Msa,"Greenville, SC",SC,,,9/30/2022,13.4
+Msa,"Greenwood, MS",MS,,,9/30/2022,11.2
+Msa,"Gulfport, MS",MS,,,9/30/2022,12.7
+Msa,"Guymon, OK",OK,,,9/30/2022,17
+Msa,"Hagerstown, WV",MD,,,9/30/2022,16.4
+Msa,"Hammond, LA",LA,,,9/30/2022,8.2
+Msa,"Hanford, CA",CA,,,9/30/2022,16.9
+Msa,"Harrisburg, PA",PA,,,9/30/2022,12.5
+Msa,"Harrison, AR",AR,,,9/30/2022,13.1
+Msa,"Hartford, CT",CT,,,9/30/2022,17
+Msa,"Hattiesburg, MS",MS,,,9/30/2022,10.4
+Msa,"Heber, UT",UT,,,9/30/2022,12.2
+Msa,"Helena, AR",AR,,,9/30/2022,8.9
+Msa,"Helena, MT",MT,,,9/30/2022,24.1
+Msa,"Hermiston-Pendleton, OR",OR,,,9/30/2022,22.8
+Msa,"Hickory, NC",NC,,,9/30/2022,16.5
+Msa,"Hilo, HI",HI,,,9/30/2022,26.2
+Msa,"Hilton Head Island, SC",SC,,,9/30/2022,19.3
+Msa,"Hinesville, GA",GA,,,9/30/2022,11.5
+Msa,"Hobbs, NM",NM,,,9/30/2022,12.2
+Msa,"Holland, MI",MI,,,9/30/2022,14.6
+Msa,"Homosassa Springs, FL",FL,,,9/30/2022,25.3
+Msa,"Hot Springs, AR",AR,,,9/30/2022,18.2
+Msa,"Houma, LA",LA,,,9/30/2022,10.6
+Msa,"Houston, TX",TX,,,9/30/2022,15.5
+Msa,"Hudson, NY",NY,,,9/30/2022,15.4
+Msa,"Huntingdon, PA",PA,,,9/30/2022,13.1
+Msa,"Huntington, WV",WV,,,9/30/2022,11
+Msa,"Huntsville, AL",AL,,,9/30/2022,20.4
+Msa,"Hutchinson, KS",KS,,,9/30/2022,12.1
+Msa,"Hutchinson, MN",MN,,,9/30/2022,14.6
+Msa,"Idaho Falls, ID",ID,,,9/30/2022,23.7
+Msa,"Indianapolis, IN",IN,,,9/30/2022,15.5
+Msa,"Indianola, MS",MS,,,9/30/2022,11.9
+Msa,"Ionia, MI",MI,,,9/30/2022,15.2
+Msa,"Iowa City, IA",IA,,,9/30/2022,7.9
+Msa,"Ithaca, NY",NY,,,9/30/2022,10.1
+Msa,"Jackson, MI",MI,,,9/30/2022,14.1
+Msa,"Jackson, MS",MS,,,9/30/2022,13.9
+Msa,"Jackson, TN",TN,,,9/30/2022,18.8
+Msa,"Jackson, WY",WY,,,9/30/2022,17.5
+Msa,"Jacksonville, FL",FL,,,9/30/2022,23.8
+Msa,"Jacksonville, NC",NC,,,9/30/2022,13
+Msa,"Jamestown, ND",ND,,,9/30/2022,7.9
+Msa,"Jamestown, NY",NY,,,9/30/2022,15.3
+Msa,"Janesville, WI",WI,,,9/30/2022,14.4
+Msa,"Jefferson City, MO",MO,,,9/30/2022,12.8
+Msa,"Jefferson, GA",GA,,,9/30/2022,22.9
+Msa,"Johnson City, TN",TN,,,9/30/2022,14.6
+Msa,"Johnstown, PA",PA,,,9/30/2022,12.8
+Msa,"Jonesboro, AR",AR,,,9/30/2022,12.4
+Msa,"Joplin, MO",MO,,,9/30/2022,13.2
+Msa,"Kahului, HI",HI,,,9/30/2022,13.6
+Msa,"Kalamazoo, MI",MI,,,9/30/2022,13.4
+Msa,"Kalispell, MT",MT,,,9/30/2022,22.4
+Msa,"Kankakee, IL",IL,,,9/30/2022,10.9
+Msa,"Kansas City, MO",MO,,,9/30/2022,13.4
+Msa,"Kapaa, HI",HI,,,9/30/2022,12.7
+Msa,"Keene, NH",NH,,,9/30/2022,13.3
+Msa,"Kennewick, WA",WA,,,9/30/2022,17.7
+Msa,"Kerrville, TX",TX,,,9/30/2022,12.8
+Msa,"Ketchikan, AK",AK,,,9/30/2022,10.9
+Msa,"Key West, FL",FL,,,9/30/2022,24.1
+Msa,"Kill Devil Hills, NC",NC,,,9/30/2022,22.5
+Msa,"Killeen, TX",TX,,,9/30/2022,24.1
+Msa,"Kingsport, TN",TN,,,9/30/2022,13.2
+Msa,"Kingston, NY",NY,,,9/30/2022,16.9
+Msa,"Kingsville, TX",TX,,,9/30/2022,11.4
+Msa,"Klamath Falls, OR",OR,,,9/30/2022,16.9
+Msa,"Knoxville, TN",TN,,,9/30/2022,19.8
+Msa,"Kokomo, IN",IN,,,9/30/2022,13.8
+Msa,"La Crosse, WI",WI,,,9/30/2022,12.8
+Msa,"Laconia, NH",NH,,,9/30/2022,15.4
+Msa,"Lafayette, LA",LA,,,9/30/2022,9.5
+Msa,"Lafayette-West Lafayette, IN",IN,,,9/30/2022,15
+Msa,"Lake Charles, LA",LA,,,9/30/2022,7
+Msa,"Lake City, FL",FL,,,9/30/2022,15.1
+Msa,"Lake Havasu City, AZ",AZ,,,9/30/2022,26.5
+Msa,"Lakeland, FL",FL,,,9/30/2022,25.6
+Msa,"Lancaster, PA",PA,,,9/30/2022,14.1
+Msa,"Lansing, MI",MI,,,9/30/2022,12.3
+Msa,"Laredo, TX",TX,,,9/30/2022,11.3
+Msa,"Las Cruces, NM",NM,,,9/30/2022,11
+Msa,"Las Vegas, NM",NM,,,9/30/2022,12.7
+Msa,"Las Vegas, NV",NV,,,9/30/2022,18.5
+Msa,"Laurel, MS",MS,,,9/30/2022,10.3
+Msa,"Lawrence, KS",KS,,,9/30/2022,13.9
+Msa,"Lawrenceburg, TN",TN,,,9/30/2022,13
+Msa,"Lawton, OK",OK,,,9/30/2022,12.9
+Msa,"Lebanon, MO",MO,,,9/30/2022,12.5
+Msa,"Lebanon, PA",PA,,,9/30/2022,13.9
+Msa,"Lewisburg, PA",PA,,,9/30/2022,12.7
+Msa,"Lewisburg, TN",TN,,,9/30/2022,19.4
+Msa,"Lewiston, ME",ME,,,9/30/2022,13.7
+Msa,"Lewistown, PA",PA,,,9/30/2022,12.9
+Msa,"Lexington, KY",KY,,,9/30/2022,12
+Msa,"Liberal, KS",KS,,,9/30/2022,7.1
+Msa,"Lima, OH",OH,,,9/30/2022,16.1
+Msa,"Lincoln, NE",NE,,,9/30/2022,11.7
+Msa,"Little Rock, AR",AR,,,9/30/2022,11.6
+Msa,"Lock Haven, PA",PA,,,9/30/2022,13
+Msa,"Logan, ID",UT,,,9/30/2022,27
+Msa,"Logan, WV",WV,,,9/30/2022,9.5
+Msa,"Longview, TX",TX,,,9/30/2022,18
+Msa,"Longview, WA",WA,,,9/30/2022,16.4
+Msa,"Los Alamos, NM",NM,,,9/30/2022,14.4
+Msa,"Los Angeles-Long Beach-Anaheim, CA",CA,,,9/30/2022,13.7
+Msa,"Louisville-Jefferson County, KY",KY,,,9/30/2022,12.5
+Msa,"Lubbock, TX",TX,,,9/30/2022,13.3
+Msa,"Ludington, MI",MI,,,9/30/2022,17.3
+Msa,"Lynchburg, VA",VA,,,9/30/2022,13
+Msa,"Macon-Bibb County, GA",GA,,,9/30/2022,15.1
+Msa,"Madera, CA",CA,,,9/30/2022,16.7
+Msa,"Madison, WI",WI,,,9/30/2022,11.4
+Msa,"Madisonville, KY",KY,,,9/30/2022,13.3
+Msa,"Magnolia, AR",AR,,,9/30/2022,11.3
+Msa,"Malone, NY",NY,,,9/30/2022,11.3
+Msa,"Malvern, AR",AR,,,9/30/2022,13.6
+Msa,"Manchester, NH",NH,,,9/30/2022,12.9
+Msa,"Manitowoc, WI",WI,,,9/30/2022,15.8
+Msa,"Mankato, MN",MN,,,9/30/2022,11.6
+Msa,"Mansfield, OH",OH,,,9/30/2022,12.5
+Msa,"Marion, IN",IN,,,9/30/2022,11.2
+Msa,"Marion, NC",NC,,,9/30/2022,16.5
+Msa,"Marion, OH",OH,,,9/30/2022,15.5
+Msa,"Marshall, MO",MO,,,9/30/2022,16.6
+Msa,"Mayfield, KY",KY,,,9/30/2022,12.4
+Msa,"Maysville, KY",KY,,,9/30/2022,13.8
+Msa,"McAlester, OK",OK,,,9/30/2022,11.5
+Msa,"McAllen, TX",TX,,,9/30/2022,13.7
+Msa,"McComb, MS",MS,,,9/30/2022,9.1
+Msa,"McMinnville, TN",TN,,,9/30/2022,14.6
+Msa,"Meadville, PA",PA,,,9/30/2022,13.5
+Msa,"Medford, OR",OR,,,9/30/2022,12
+Msa,"Melbourne, FL",FL,,,9/30/2022,23.3
+Msa,"Memphis, TN",TN,,,9/30/2022,16.4
+Msa,"Merced, CA",CA,,,9/30/2022,21.7
+Msa,"Meridian, MS",MS,,,9/30/2022,8.7
+Msa,"Miami, OK",OK,,,9/30/2022,12.5
+Msa,"Miami-Fort Lauderdale, FL",FL,,,9/30/2022,20.6
+Msa,"Michigan City, IN",IN,,,9/30/2022,13.9
+Msa,"Midland, MI",MI,,,9/30/2022,11.1
+Msa,"Midland, TX",TX,,,9/30/2022,6.4
+Msa,"Milwaukee, WI",WI,,,9/30/2022,12.2
+Msa,"Minneapolis-St Paul, MN",MN,,,9/30/2022,11.4
+Msa,"Minot, ND",ND,,,9/30/2022,11.4
+Msa,"Missoula, MT",MT,,,9/30/2022,21.8
+Msa,"Mobile, AL",AL,,,9/30/2022,14.7
+Msa,"Modesto, CA",CA,,,9/30/2022,13.9
+Msa,"Monroe, LA",LA,,,9/30/2022,9.3
+Msa,"Monroe, MI",MI,,,9/30/2022,13.4
+Msa,"Montgomery, AL",AL,,,9/30/2022,12
+Msa,"Montrose, CO",CO,,,9/30/2022,13.8
+Msa,"Morehead City, NC",NC,,,9/30/2022,17.7
+Msa,"Morgan City, LA",LA,,,9/30/2022,8.6
+Msa,"Morgantown, WV",WV,,,9/30/2022,11
+Msa,"Morristown, TN",TN,,,9/30/2022,15.5
+Msa,"Moscow, ID",ID,,,9/30/2022,12.4
+Msa,"Moses Lake, WA",WA,,,9/30/2022,17.5
+Msa,"Mount Vernon, IL",IL,,,9/30/2022,12
+Msa,"Mount Vernon, WA",WA,,,9/30/2022,19.1
+Msa,"Mountain Home, AR",AR,,,9/30/2022,15.4
+Msa,"Mountain Home, ID",ID,,,9/30/2022,15
+Msa,"Muncie, IN",IN,,,9/30/2022,14.3
+Msa,"Murray, KY",KY,,,9/30/2022,12.6
+Msa,"Muskegon, MI",MI,,,9/30/2022,17.8
+Msa,"Myrtle Beach, SC",SC,,,9/30/2022,24
+Msa,"Napa, CA",CA,,,9/30/2022,11.5
+Msa,"Naples, FL",FL,,,9/30/2022,30.6
+Msa,"Nashville, TN",TN,,,9/30/2022,19
+Msa,"Natchez, MS",MS,,,9/30/2022,10.9
+Msa,"Natchitoches, LA",LA,,,9/30/2022,9.9
+Msa,"New Bern, NC",NC,,,9/30/2022,13.2
+Msa,"New Castle, PA",PA,,,9/30/2022,13
+Msa,"New Haven, CT",CT,,,9/30/2022,15.2
+Msa,"New London, CT",CT,,,9/30/2022,18.3
+Msa,"New Orleans, LA",LA,,,9/30/2022,12
+Msa,"New Philadelphia, OH",OH,,,9/30/2022,11.1
+Msa,"New York, NY",NY,,,9/30/2022,10.7
+Msa,"Newport, OR",OR,,,9/30/2022,26.4
+Msa,"Newport, TN",TN,,,9/30/2022,13.6
+Msa,"Niles, MI",MI,,,9/30/2022,15.9
+Msa,"North Port-Sarasota-Bradenton, FL",FL,,,9/30/2022,30
+Msa,"Oak Harbor, WA",WA,,,9/30/2022,17.2
+Msa,"Ocala, FL",FL,,,9/30/2022,19.4
+Msa,"Ocean City, NJ",NJ,,,9/30/2022,20.7
+Msa,"Odessa, TX",TX,,,9/30/2022,3.7
+Msa,"Ogden, UT",UT,,,9/30/2022,19.9
+Msa,"Ogdensburg, NY",NY,,,9/30/2022,21.2
+Msa,"Oil City, PA",PA,,,9/30/2022,12
+Msa,"Okeechobee, FL",FL,,,9/30/2022,8.9
+Msa,"Oklahoma City, OK",OK,,,9/30/2022,11.9
+Msa,"Olean, NY",NY,,,9/30/2022,11.8
+Msa,"Olympia, WA",WA,,,9/30/2022,16.3
+Msa,"Omaha, NE",NE,,,9/30/2022,12.5
+Msa,"Oneonta, NY",NY,,,9/30/2022,10.7
+Msa,"Opelousas, LA",LA,,,9/30/2022,16.6
+Msa,"Orlando, FL",FL,,,9/30/2022,15.8
+Msa,"Oshkosh, WI",WI,,,9/30/2022,13.5
+Msa,"Ottawa, IL",IL,,,9/30/2022,12
+Msa,"Owatonna, MN",MN,,,9/30/2022,11.6
+Msa,"Owensboro, KY",KY,,,9/30/2022,15
+Msa,"Owosso, MI",MI,,,9/30/2022,9.6
+Msa,"Oxford, MS",MS,,,9/30/2022,10.1
+Msa,"Oxford, NC",NC,,,9/30/2022,19.5
+Msa,"Pahrump, NV",NV,,,9/30/2022,16.2
+Msa,"Palatka, FL",FL,,,9/30/2022,17.4
+Msa,"Panama City, FL",FL,,,9/30/2022,16.8
+Msa,"Paragould, AR",AR,,,9/30/2022,13.3
+Msa,"Paris, TX",TX,,,9/30/2022,16.8
+Msa,"Parkersburg, WV",WV,,,9/30/2022,11.7
+Msa,"Parsons, KS",KS,,,9/30/2022,15
+Msa,"Payson, AZ",AZ,,,9/30/2022,20.6
+Msa,"Pecos, TX",TX,,,9/30/2022,19.2
+Msa,"Pensacola, FL",FL,,,9/30/2022,19.4
+Msa,"Peoria, IL",IL,,,9/30/2022,10.9
+Msa,"Philadelphia, PA",PA,,,9/30/2022,13.3
+Msa,"Phoenix, AZ",AZ,,,9/30/2022,23.8
+Msa,"Picayune, MS",MS,,,9/30/2022,10.9
+Msa,"Pine Bluff, AR",AR,,,9/30/2022,13.4
+Msa,"Pinehurst-Southern Pines, NC",NC,,,9/30/2022,19.2
+Msa,"Pittsburgh, PA",PA,,,9/30/2022,12.5
+Msa,"Pittsfield, MA",MA,,,9/30/2022,16.5
+Msa,"Plattsburgh, NY",NY,,,9/30/2022,10.5
+Msa,"Pocatello, ID",ID,,,9/30/2022,21.3
+Msa,"Point Pleasant, WV",WV,,,9/30/2022,12.1
+Msa,"Ponca City, OK",OK,,,9/30/2022,11.3
+Msa,"Port Angeles, WA",WA,,,9/30/2022,19
+Msa,"Port St. Lucie, FL",FL,,,9/30/2022,31.2
+Msa,"Portales, NM",NM,,,9/30/2022,12.3
+Msa,"Portland, ME",ME,,,9/30/2022,17.3
+Msa,"Portland, OR",OR,,,9/30/2022,15.2
+Msa,"Portsmouth, OH",OH,,,9/30/2022,14.1
+Msa,"Pottsville, PA",PA,,,9/30/2022,16.8
+Msa,"Prescott, AZ",AZ,,,9/30/2022,25.5
+Msa,"Price, UT",UT,,,9/30/2022,10
+Msa,"Providence, RI",RI,,,9/30/2022,15.9
+Msa,"Provo, UT",UT,,,9/30/2022,20.6
+Msa,"Pueblo, CO",CO,,,9/30/2022,19.2
+Msa,"Pullman, WA",WA,,,9/30/2022,10.6
+Msa,"Punta Gorda, FL",FL,,,9/30/2022,29
+Msa,"Quincy, IL",IL,,,9/30/2022,11.8
+Msa,"Raleigh, NC",NC,,,9/30/2022,27.5
+Msa,"Rapid City, SD",SD,,,9/30/2022,18.2
+Msa,"Reading, PA",PA,,,9/30/2022,13.5
+Msa,"Red Bluff, CA",CA,,,9/30/2022,14.1
+Msa,"Red Wing, MN",MN,,,9/30/2022,13
+Msa,"Redding, CA",CA,,,9/30/2022,15.7
+Msa,"Reno, NV",NV,,,9/30/2022,16
+Msa,"Rexburg, ID",ID,,,9/30/2022,13.4
+Msa,"Richmond, KY",KY,,,9/30/2022,13.2
+Msa,"Richmond, VA",VA,,,9/30/2022,12.7
+Msa,"Riverside, CA",CA,,,9/30/2022,18.1
+Msa,"Roanoke, VA",VA,,,9/30/2022,13
+Msa,"Rochelle, IL",IL,,,9/30/2022,11.5
+Msa,"Rochester, MN",MN,,,9/30/2022,12.7
+Msa,"Rochester, NY",NY,,,9/30/2022,13.2
+Msa,"Rockford, IL",IL,,,9/30/2022,12.2
+Msa,"Rocky Mount, NC",NC,,,9/30/2022,18.6
+Msa,"Rome, GA",GA,,,9/30/2022,15.5
+Msa,"Roseburg, OR",OR,,,9/30/2022,17.9
+Msa,"Roswell, NM",NM,,,9/30/2022,13.9
+Msa,"Russellville, AR",AR,,,9/30/2022,13.4
+Msa,"Ruston, LA",LA,,,9/30/2022,10.6
+Msa,"Rutland, VT",VT,,,9/30/2022,21.6
+Msa,"Sacramento, CA",CA,,,9/30/2022,17
+Msa,"Saginaw, MI",MI,,,9/30/2022,14.9
+Msa,"Salem, OH",OH,,,9/30/2022,11.8
+Msa,"Salem, OR",OR,,,9/30/2022,16.7
+Msa,"Salinas, CA",CA,,,9/30/2022,19.5
+Msa,"Salisbury, MD",DE,,,9/30/2022,19.7
+Msa,"Salt Lake City, UT",UT,,,9/30/2022,17.6
+Msa,"San Angelo, TX",TX,,,9/30/2022,10.1
+Msa,"San Antonio, TX",TX,,,9/30/2022,17.6
+Msa,"San Diego, CA",CA,,,9/30/2022,21.3
+Msa,"San Francisco, CA",CA,,,9/30/2022,8.6
+Msa,"San Jose, CA",CA,,,9/30/2022,5.9
+Msa,"San Luis Obispo, CA",CA,,,9/30/2022,17.5
+Msa,"Sandpoint, ID",ID,,,9/30/2022,16
+Msa,"Sandusky, OH",OH,,,9/30/2022,13.6
+Msa,"Santa Cruz, CA",CA,,,9/30/2022,12.3
+Msa,"Santa Fe, NM",NM,,,9/30/2022,16
+Msa,"Santa Maria-Santa Barbara, CA",CA,,,9/30/2022,20.1
+Msa,"Santa Rosa, CA",CA,,,9/30/2022,10.4
+Msa,"Sault Ste. Marie, MI",MI,,,9/30/2022,18.1
+Msa,"Savannah, GA",GA,,,9/30/2022,17.6
+Msa,"Sayre, PA",PA,,,9/30/2022,12.2
+Msa,"Scottsboro, AL",AL,,,9/30/2022,12.4
+Msa,"Scranton, PA",PA,,,9/30/2022,17.7
+Msa,"Searcy, AR",AR,,,9/30/2022,19.4
+Msa,"Seattle, WA",WA,,,9/30/2022,13.5
+Msa,"Sebring, FL",FL,,,9/30/2022,22.5
+Msa,"Sedalia, MO",MO,,,9/30/2022,17.9
+Msa,"Selinsgrove, PA",PA,,,9/30/2022,13.2
+Msa,"Selma, AL",AL,,,9/30/2022,11.6
+Msa,"Seneca Falls, NY",NY,,,9/30/2022,12.2
+Msa,"Seneca, SC",SC,,,9/30/2022,16.7
+Msa,"Sevierville, TN",TN,,,9/30/2022,26.9
+Msa,"Sheboygan, WI",WI,,,9/30/2022,13.1
+Msa,"Shelby, NC",NC,,,9/30/2022,16.6
+Msa,"Shelbyville, TN",TN,,,9/30/2022,17.6
+Msa,"Shelton, WA",WA,,,9/30/2022,22.2
+Msa,"Sherman, TX",TX,,,9/30/2022,17
+Msa,"Show Low, AZ",AZ,,,9/30/2022,22.5
+Msa,"Shreveport, LA",LA,,,9/30/2022,8.1
+Msa,"Sierra Vista, AZ",AZ,,,9/30/2022,15
+Msa,"Silver City, NM",NM,,,9/30/2022,12.5
+Msa,"Sioux City, IA",IA,,,9/30/2022,11
+Msa,"Sioux Falls, SD",SD,,,9/30/2022,13
+Msa,"Somerset, KY",KY,,,9/30/2022,14.5
+Msa,"South Bend, IN",IN,,,9/30/2022,15.1
+Msa,"Spartanburg, SC",SC,,,9/30/2022,16.2
+Msa,"Spokane, WA",WA,,,9/30/2022,20.3
+Msa,"Springfield, IL",IL,,,9/30/2022,7.9
+Msa,"Springfield, MA",MA,,,9/30/2022,13.5
+Msa,"Springfield, MO",MO,,,9/30/2022,15
+Msa,"Springfield, OH",OH,,,9/30/2022,16.5
+Msa,"St. Cloud, MN",MN,,,9/30/2022,13.6
+Msa,"St. George, UT",UT,,,9/30/2022,18.7
+Msa,"St. Joseph, MO",MO,,,9/30/2022,12.3
+Msa,"St. Louis, MO",MO,,,9/30/2022,12.6
+Msa,"St. Marys, GA",GA,,,9/30/2022,17.6
+Msa,"Stamford, CT",CT,,,9/30/2022,15.3
+Msa,"Starkville, MS",MS,,,9/30/2022,8.5
+Msa,"State College, PA",PA,,,9/30/2022,9.1
+Msa,"Statesboro, GA",GA,,,9/30/2022,9.4
+Msa,"Steamboat Springs, CO",CO,,,9/30/2022,25.9
+Msa,"Stillwater, OK",OK,,,9/30/2022,9.3
+Msa,"Stockton, CA",CA,,,9/30/2022,17.1
+Msa,"Sturgis, MI",MI,,,9/30/2022,15.7
+Msa,"Summerville, GA",GA,,,9/30/2022,15.3
+Msa,"Summit Park, UT",UT,,,9/30/2022,25
+Msa,"Sumter, SC",SC,,,9/30/2022,13.2
+Msa,"Sunbury, PA",PA,,,9/30/2022,13.6
+Msa,"Sweetwater, TX",TX,,,9/30/2022,12.6
+Msa,"Syracuse, NY",NY,,,9/30/2022,10.5
+Msa,"Tahlequah, OK",OK,,,9/30/2022,14
+Msa,"Tallahassee, FL",FL,,,9/30/2022,13.7
+Msa,"Tampa, FL",FL,,,9/30/2022,27.2
+Msa,"Taos, NM",NM,,,9/30/2022,16.2
+Msa,"Terre Haute, IN",IN,,,9/30/2022,12
+Msa,"The Villages, FL",FL,,,9/30/2022,14.7
+Msa,"Toledo, OH",OH,,,9/30/2022,13.1
+Msa,"Topeka, KS",KS,,,9/30/2022,13.5
+Msa,"Torrington, CT",CT,,,9/30/2022,19.7
+Msa,"Traverse City, MI",MI,,,9/30/2022,19.2
+Msa,"Trenton, NJ",NJ,,,9/30/2022,13.5
+Msa,"Truckee, CA",CA,,,9/30/2022,17.5
+Msa,"Tucson, AZ",AZ,,,9/30/2022,20.6
+Msa,"Tullahoma, TN",TN,,,9/30/2022,19.9
+Msa,"Tulsa, OK",OK,,,9/30/2022,14.1
+Msa,"Tupelo, MS",MS,,,9/30/2022,10.7
+Msa,"Tuscaloosa, AL",AL,,,9/30/2022,11.2
+Msa,"Twin Falls, ID",ID,,,9/30/2022,25.8
+Msa,"Tyler, TX",TX,,,9/30/2022,11.4
+Msa,"Ukiah, CA",CA,,,9/30/2022,10.3
+Msa,"Urban Honolulu, HI",HI,,,9/30/2022,15.8
+Msa,"Utica, NY",NY,,,9/30/2022,15
+Msa,"Valdosta, GA",GA,,,9/30/2022,14.3
+Msa,"Vallejo, CA",CA,,,9/30/2022,12.6
+Msa,"Valley, AL",AL,,,9/30/2022,13.8
+Msa,"Ventura, CA",CA,,,9/30/2022,17.8
+Msa,"Vernal, UT",UT,,,9/30/2022,8
+Msa,"Vero Beach, FL",FL,,,9/30/2022,28.1
+Msa,"Vicksburg, MS",MS,,,9/30/2022,9.5
+Msa,"Vineland, NJ",NJ,,,9/30/2022,20.3
+Msa,"Virginia Beach, VA",VA,,,9/30/2022,12.5
+Msa,"Visalia, CA",CA,,,9/30/2022,16.7
+Msa,"Waco, TX",TX,,,9/30/2022,21.4
+Msa,"Walla Walla, WA",WA,,,9/30/2022,15.1
+Msa,"Warner Robins, GA",GA,,,9/30/2022,11.9
+Msa,"Warren, PA",PA,,,9/30/2022,12.4
+Msa,"Warrensburg, MO",MO,,,9/30/2022,13.5
+Msa,"Warsaw, IN",IN,,,9/30/2022,12.6
+Msa,"Washington, DC",DC,,,9/30/2022,11.3
+Msa,"Waterloo, IA",IA,,,9/30/2022,9.6
+Msa,"Watertown, NY",NY,,,9/30/2022,9.6
+Msa,"Watertown, WI",WI,,,9/30/2022,13.7
+Msa,"Wausau, WI",WI,,,9/30/2022,12
+Msa,"Weatherford, OK",OK,,,9/30/2022,13.1
+Msa,"Weirton, OH",OH,,,9/30/2022,12.8
+Msa,"Wenatchee, WA",WA,,,9/30/2022,17.5
+Msa,"Wheeling, OH",OH,,,9/30/2022,13.4
+Msa,"Whitewater, WI",WI,,,9/30/2022,14.7
+Msa,"Wichita Falls, TX",TX,,,9/30/2022,14.7
+Msa,"Wichita, KS",KS,,,9/30/2022,14.4
+Msa,"Williamsport, PA",PA,,,9/30/2022,9.8
+Msa,"Williston, ND",ND,,,9/30/2022,8.7
+Msa,"Wilmington, NC",NC,,,9/30/2022,16.1
+Msa,"Wilson, NC",NC,,,9/30/2022,9.7
+Msa,"Winchester, VA",VA,,,9/30/2022,13.8
+Msa,"Winona, MN",MN,,,9/30/2022,10
+Msa,"Winston-Salem, NC",NC,,,9/30/2022,22.1
+Msa,"Wisconsin Rapids-Marshfield, WI",WI,,,9/30/2022,13.8
+Msa,"Woodward, OK",OK,,,9/30/2022,11.6
+Msa,"Wooster, OH",OH,,,9/30/2022,14.1
+Msa,"Worcester, MA",MA,,,9/30/2022,15.7
+Msa,"Yakima, WA",WA,,,9/30/2022,17.2
+Msa,"York, PA",PA,,,9/30/2022,14.1
+Msa,"Youngstown, OH",OH,,,9/30/2022,20.2
+Msa,"Yuba City, CA",CA,,,9/30/2022,15.5
+Msa,"Yuma, AZ",AZ,,,9/30/2022,20.9
+Msa,"Zanesville, OH",OH,,,9/30/2022,13.2
+Msa,"Zapata, TX",TX,,,9/30/2022,12.1
